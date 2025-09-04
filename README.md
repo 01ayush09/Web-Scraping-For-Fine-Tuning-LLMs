@@ -1,1 +1,1 @@
-web scarping for fine tuning LLMs
+web scraping for fine tuning LLMs
